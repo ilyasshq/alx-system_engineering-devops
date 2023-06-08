@@ -1,1 +1,1 @@
-0x00. Shell, basics
+this is my first readme
